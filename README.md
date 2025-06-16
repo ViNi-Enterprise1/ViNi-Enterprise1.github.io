@@ -1,6 +1,5 @@
 # ViNi-Enterprise1.github.io
 
-<!DOCTYPE html>
 <html lang="pl">
 <head>
   <meta charset="UTF-8" />
